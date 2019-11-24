@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/juc-wp-aotmic/jucwpaotmic.iml" filepath="$PROJECT_DIR$/juc-wp-aotmic/jucwpaotmic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc-wp-collections/jucwpcollections.iml" filepath="$PROJECT_DIR$/juc-wp-collections/jucwpcollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc-wp-executor/jucwpexecutor.iml" filepath="$PROJECT_DIR$/juc-wp-executor/jucwpexecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc-wp-locks/jucwplocks.iml" filepath="$PROJECT_DIR$/juc-wp-locks/jucwplocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc-wp-tools/jucwptools.iml" filepath="$PROJECT_DIR$/juc-wp-tools/jucwptools.iml" />
+    </modules>
+  </component>
+</project>
